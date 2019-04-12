@@ -1,4 +1,4 @@
-Version 1.1- Raw file, no comments, working fully, extra code
+Version 1.1- Raw file, no comments, working fully, extra code /n
 Basys 3 FPGA used
 ADC pins 1,3,7,9 are used
   1/J3,7/K3 are voltage with 7 being ground
